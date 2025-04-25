@@ -1,0 +1,40 @@
+---
+title: "Experience 💼 🎓"
+---
+
+I’m currently a **Junior Data Scientist at [DIME Analytics](https://www.worldbank.org/en/about/unit/unit-dec/impactevaluation/dime-analytics), World Bank**, where I coordinate efforts to strengthen **reproducibility**, build **open-source tools**. I support research teams in ensuring that evidence is transparent, reusable, and grounded in best practices.
+
+Beyond coding, I’m passionate about **mentorship and capacity building**—I regularly train researchers and clients in **GitHub workflows**, **reproducibility standards**, and **data analysis tools** in both R and Stata. I believe in the power of well-documented, accessible research to drive better policy decisions.
+
+My long-term goal is to help shape a more equitable and responsible data ecosystem, one that prioritizes **data ethics**, **diversity**, and **impact**.
+
+## Experience (Brief Overview)
+
+- **Junior Data Scientist**  
+  *World Bank – DIME Analytics \| Aug 2023 – Present*  
+  Focus on **reproducibility**, **tool development**, and **capacity building** to improve research transparency and impact.
+
+- **Social Data Consultant**  
+  *Inter-American Development Bank \| Sep 2021 – Jul 2023*  
+  Coordinated the **social sector data ecosystem** and supported the team responsible for the **harmonization of census and household surveys** across Latin America and the Caribbean.
+
+- **Economics Associate**  
+  *SAI Law & Economics \| Mar 2018 – Aug 2020*  
+  Conducted **policy impact analysis** and contributed to evaluations in the field of **economic regulation and competition policy**.
+
+- **Department Head**  
+  *Ministry of Social Development, Mexico \| Jun 2017 – Feb 2018*  
+  Led work on **social program design and focalization**, ensuring resources were effectively targeted.
+
+    
+## Education
+
+-   **MSc in Development Economics**\
+    University of Sussex \| Brighton, UK\
+    *Recipient of the Sussex Chancellor’s International Scholarship*
+
+-   **BA in Economics**\
+    Instituto Tecnológico Autónomo de México (ITAM) \| Mexico City, Mexico\
+    *Specialization in Political Economy*    
+
+

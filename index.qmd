@@ -1,0 +1,24 @@
+---
+title: "María Reyes Retana"
+subtitle: "Junior Data Scientist, World Bank"
+# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
+image: profile.jpg
+image-alt: "Photo of me, in the snow with the Capitol in the background"
+about: # https://quarto.org/docs/websites/website-about.html
+  template: trestles
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/mariarrt94
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      target: _blank
+      href: https://www.linkedin.com/in/maria-reyes-retana/
+---
+
+# About Me
+
+I am Mer, a **Mexican development economist** with over **7 years of experience** specializing in **data analysis, visualization, and economic modeling**. Proficient in **R programming** and various statistical tools, I have applied data science to address **gender, poverty, and inequality** challenges across Latin America and beyond.
+
+My passion lies not just in the use of data, but in the **responsible and ethical use of data**—ensuring it is applied in ways that are **transparent, inclusive, and equitable**. I believe that how we collect, interpret, and act on data matters. I am committed to using data to drive **better policy decisions** and to create a more **just and equitable world**.

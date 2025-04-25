@@ -1,0 +1,28 @@
+---
+title: "Projects 📋"
+---
+
+## Tools 🛠️
+
+### [IEHFC: High-Frequency Checks in R](https://github.com/dime-worldbank/iehfc)
+An **R package** developed at the World Bank’s DIME Analytics to support **data quality assurance**. The tool automates high-frequency checks and integrates smoothly into reproducible workflows for field data collection.
+
+### [IDB Social DataPy](https://github.com/EL-BID/idbsocialdatapy)
+A **Python package** developed at the Inter-American Development Bank to streamline access to **social indicators** across Latin America for researchers and policymakers.  
+
+### [IDB Social DataR](https://github.com/BID-DATA/idbsocialdataR)
+The **R version** of the Social DataPy tool, created to ensure accessibility of IDB social datasets for R users working on development and policy research.
+
+---
+
+## Blogs & Publications 📝
+
+### [Expanding Opportunities: Policies for Gender Equality and Inclusion](https://publications.iadb.org/en/expanding-opportunities-policies-gender-equality-and-inclusion)
+A **flagship publication** by the Inter-American Development Bank. I contributed as part of the gender team, focusing on how data can inform inclusive and equitable policy across Latin America and the Caribbean.
+
+### [Introducing IDB Social DataPy – Blog Post (Spanish)](https://blogs.iadb.org/conocimiento-abierto/es/idbsocialdata/)
+An official **IDB blog post** introducing the Social DataPy tool, highlighting its design, functionality, and applications in development research and policymaking.
+
+
+
+

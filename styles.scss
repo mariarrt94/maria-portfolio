@@ -1,0 +1,73 @@
+/*-- scss:defaults --*/
+
+/* Quarto and Bootstrap Variables */
+$body-bg: #ffffff;
+$body-color: #333333;
+$primary: #2c3e50; // Deep slate gray for a professional accent
+
+$link-color: #006699; // Muted but clear blue for links
+$headings-color: #2c3e50; // Matches primary for coherence
+$navbar-bg: #f8f9fa; // Light neutral for the navbar
+
+$code-color: $body-color;
+$code-block-bg: theme-fade($body-bg, $body-color, 5%);
+$code-bg: $code-block-bg;
+
+$font-family-sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+$font-family-sans-serif: 'Source Sans Pro', sans-serif;
+
+/*-- scss:rules --*/
+
+body {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  color: $headings-color;
+}
+
+a {
+  color: $link-color;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.navbar {
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+}
+
+.nav-link.active {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  font-weight: 600;
+}
+
+.code-with-filename .code-with-filename-file {
+  background-color: theme-fade($body-bg, $body-color, 10%);
+  font-weight: 500;
+  font-size: 0.875rem;
+  padding: 0.25rem 0.5rem;
+  border-left: 4px solid $primary;
+}
+
+pre code {
+  border-radius: 4px;
+  padding: 1rem;
+  background-color: $code-block-bg;
+}
+
+.card {
+  border: 1px solid #e6e6e6;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  background-color: #fafafa;
+}
