@@ -17,6 +17,9 @@ The **R version** of the Social DataPy tool, created to ensure accessibility of 
 
 ## Blogs & Publications 📝
 
+### [High - Frequency Checks in Action: Introducing iehfc for Better Data Quality](https://blogs.worldbank.org/en/impactevaluations/high---frequency-checks-in-action--introducing-iehfc-for-better-)
+A blog where we present `iehfc`, and R package to support **data quality assurance**. 
+
 ### [Expanding Opportunities: Policies for Gender Equality and Inclusion](https://publications.iadb.org/en/expanding-opportunities-policies-gender-equality-and-inclusion)
 A **flagship publication** by the Inter-American Development Bank. I contributed as part of the gender team, focusing on how data can inform inclusive and equitable policy across Latin America and the Caribbean.
 
